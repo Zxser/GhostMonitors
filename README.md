@@ -42,7 +42,7 @@
 >
 > cp bin/masscan /bin/masscan
 >
-> git clone https://github.com/grayddq/PublicMonitors.git
+> git clone https://github.com/mengdaya/GhostMonitors.git
 > 
 > sudo pip install -U pip
 >
